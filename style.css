@@ -1,0 +1,57 @@
+/* Reset some default browser styles */
+body, h1, h2, ul, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Add a background color and some padding around the page */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  padding: 20px;
+  color: #333;
+}
+
+/* Style the header */
+header {
+  background-color: #50b3a2;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Style the navigation menu */
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: white;
+}
+
+/* Style each section */
+section {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+/* Add some spacing below headers and above text items */
+h1, h2, ul, p {
+  margin-bottom: 15px;
+  padding-top: 15px;
+}
+
+/* Style the list of skills */
+ul {
+  list-style: inside square;
+}
+
+/* Style the footer */
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
