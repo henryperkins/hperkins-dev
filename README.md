@@ -1,2 +1,2 @@
 # hperkins-dev
-Repository for testing Dev Home Preview (Microsoft)
+Repository for Personal / CV website
